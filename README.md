@@ -1,6 +1,6 @@
 # Provisioning a AWS instance using Infrastructure as Code with Terraform
 
-As part of our improving our workflows and automating repeatable steps in our processes, this code will provision a web server without going through tedious steps when setting your web server instance with the GUI. Streamlining our processes would help us focus on the business process and on how we can solve the problems that are repeatable in nature.
+As part of our improving our workflows and automating repeatable steps in our processes, this code will provision a web server without going through tedious steps when setting your web server instance with the GUI. Streamlining our processes would help us focus on the business process and making sure we are always staying up-to-date.
 
 In this code, it will setup a LAMP-stack based server. All the necesary toolings and libraries will be installed when you execute the code or template.
 
